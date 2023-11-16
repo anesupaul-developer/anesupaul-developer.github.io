@@ -26,5 +26,8 @@
   "bugs": {
     "url": "https://github.com/anesupaul-developer/anesupaul-developer.github.io/issues"
   },
-  "homepage": "https://github.com/anesupaul-developer/anesupaul-developer.github.io#readme"
+  "homepage": "https://github.com/anesupaul-developer/anesupaul-developer.github.io#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
 }
