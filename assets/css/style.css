@@ -9,6 +9,10 @@
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
+* {
+  font-family: 'Montserrat', sans-serif;
+}
+
 body {
   background-color: #f5f5f5;
   color: #4e4e4e;
@@ -453,6 +457,7 @@ a:hover {
   transition: all 0.5s;
   z-index: 997;
   padding: 20px 0;
+  background-color: #112233;
 }
 
 #header .logo {
