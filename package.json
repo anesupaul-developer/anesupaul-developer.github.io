@@ -1,0 +1,30 @@
+{
+  "name": "myportfolio",
+  "version": "1.0.0",
+  "description": "Portfolio website for Anesu Paul Ngirande",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anesupaul-developer/anesupaul-developer.github.io.git"
+  },
+  "keywords": [
+    "Anesu",
+    "Paul",
+    "Ngirande",
+    "PHP",
+    "Developer",
+    "Zimbabwe",
+    "Sage",
+    "Pastel",
+    "Integration"
+  ],
+  "author": "Anesu Paul Ngirande",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anesupaul-developer/anesupaul-developer.github.io/issues"
+  },
+  "homepage": "https://github.com/anesupaul-developer/anesupaul-developer.github.io#readme"
+}
